@@ -1,0 +1,28 @@
+#app {
+	font-family: "Avenir", Helvetica, Arial, sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	text-align: center;
+	color: #2c3e50;
+	margin-top: 60px;
+}
+hr {
+	max-width: 65%;
+}
+.msg {
+	margin: 0 auto;
+	max-width: 30%;
+	text-align: left;
+	border-bottom: 1px solid #ccc;
+	padding: 1rem;
+}
+.msg-index {
+	color: #ccc;
+	font-size: 0.8rem;
+	/* margin-bottom: 0; */
+}
+img {
+	width: 250px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
