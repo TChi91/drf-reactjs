@@ -49,7 +49,6 @@ const Messages = () => {
 								X
 							</span>
 							<span className="msg-body"> | {msg.body}</span>
-							<hr></hr>
 						</div>
 					);
 				})
